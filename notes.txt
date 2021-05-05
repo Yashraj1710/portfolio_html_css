@@ -1,0 +1,28 @@
+Prerequisites:
+
+-Text editor(VS Code)
+-Web browser
+
+TODOs
+
+1. Build the project
+    - creating the folder
+    - adding files
+    - connecting files
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolop item grid
+    - images
+    - titles
+    - descriptions
+    - animation
+    - Javascript
+
+4. About Page
+    - images
+    - split column layout
+
+ 
+
